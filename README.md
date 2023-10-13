@@ -25,9 +25,9 @@ Topics:
 
 # Useful Links
 
-Docker:
-Online labs: https://www.docker.com/play-with-docker/
+Docker: <br />
+Online labs: https://www.docker.com/play-with-docker/ <br />
 
-Kubernetes:
-Online lab: https://labs.play-with-k8s.com/
+Kubernetes: <br />
+Online lab: https://labs.play-with-k8s.com/ 
 Other useful lab: https://kubernetes.courselabs.co/
