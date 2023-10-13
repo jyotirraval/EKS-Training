@@ -29,5 +29,5 @@ Docker: <br />
 Online labs: https://www.docker.com/play-with-docker/ <br />
 
 Kubernetes: <br />
-Online lab: https://labs.play-with-k8s.com/ 
-Other useful lab: https://kubernetes.courselabs.co/
+Online lab: https://labs.play-with-k8s.com/ <br />
+Other useful lab: https://kubernetes.courselabs.co/ <br />
