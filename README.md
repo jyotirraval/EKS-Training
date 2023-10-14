@@ -4,18 +4,18 @@ Topics:
 1.	Architecture & Components
 2.	Deployment
 3.	Services
-4.	Scheduling
+4.	Scheduling (https://kubernetes.io/docs/concepts/scheduling-eviction/)
 5.	Labels and Selectors (https://kubernetes.io/docs/concepts/overview/working-with-objects/labels/)
 6.	Taint and Tolerations (https://kubernetes.io/docs/concepts/scheduling-eviction/taint-and-toleration/)
 7.	Node Affinity (https://kubernetes.io/docs/tasks/configure-pod-container/assign-pods-nodes-using-node-affinity/)
 8.	Node Selectors (https://kubernetes.io/docs/tasks/configure-pod-container/assign-pods-nodes/#add-a-label-to-a-node)
 9.	Daemonset (https://kubernetes.io/docs/concepts/workloads/controllers/daemonset/)
 10.	ConfigMap (https://kubernetes.io/docs/concepts/configuration/configmap/)
-11.	Secrets
+11.	Secrets (https://kubernetes.io/docs/concepts/configuration/secret/)
 12.	Multi container Pods
-13.	Init container
+13.	Init container (https://kubernetes.io/docs/concepts/workloads/pods/init-containers/)
 14.	Service Account
-15.	TLS
+15.	TLS (https://kubernetes.io/docs/tasks/tls/)
 16.	Kube Config
 17.	Network Policies
 18.	Volumes
