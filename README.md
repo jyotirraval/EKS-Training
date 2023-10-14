@@ -6,11 +6,11 @@ Topics:
 3.	Services
 4.	Scheduling
 5.	Labels and Selectors (https://kubernetes.io/docs/concepts/overview/working-with-objects/labels/)
-6.	Taint and Tolerations
-7.	Node Affinity
+6.	Taint and Tolerations (https://kubernetes.io/docs/concepts/scheduling-eviction/taint-and-toleration/)
+7.	Node Affinity (https://kubernetes.io/docs/tasks/configure-pod-container/assign-pods-nodes-using-node-affinity/)
 8.	Node Selectors (https://kubernetes.io/docs/tasks/configure-pod-container/assign-pods-nodes/#add-a-label-to-a-node)
-9.	Daemonset
-10.	ConfigMap
+9.	Daemonset (https://kubernetes.io/docs/concepts/workloads/controllers/daemonset/)
+10.	ConfigMap (https://kubernetes.io/docs/concepts/configuration/configmap/)
 11.	Secrets
 12.	Multi container Pods
 13.	Init container
