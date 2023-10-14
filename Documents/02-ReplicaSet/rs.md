@@ -2,6 +2,6 @@
 
 Oeverview:
 
-![pod drawio](https://github.com/jyotirraval/EKS-Training/assets/31502473/e55252f4-f760-4f69-895e-6459d5719c84)
+![pod drawio (1)](https://github.com/jyotirraval/EKS-Training/assets/31502473/742f1b15-543e-46e5-9f9b-8267990a64fa)
 
 Few commands related to ReplicaSet:
