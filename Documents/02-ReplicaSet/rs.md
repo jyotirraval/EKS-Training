@@ -12,6 +12,6 @@ ReplicaSet across the Nodes:
 Few commands related to ReplicaSet: <br />
 kubectl get replicaset <br />
 kubectl get rs <br />
-kubectl create -f replicaset-definition.yaml <br />
+kubectl create -f replicaset.yaml <br />
 kubectl delete replicaset replica-set-name (deletes all underlying PODs with this replicaset) <br />
 kubectl scale --replicas=6 replicaset replica-set-name <br />
