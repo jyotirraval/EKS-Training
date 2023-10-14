@@ -6,5 +6,8 @@ Overview:
 
 Few commands: <br />
 kubectl get deployments <br />
+kubectl get deployments -o wide <br />
+kubectl describe deploy <DEPLOYMENT_NAME> <br />
+kubectl get deployments <br />
 kubectl create -f deployment-definition.yaml <br />
 kubectl create deployment --image=nginx nginx --replicas=4 --dry-run=client -o yaml > nginx-deployment.yaml <br />
