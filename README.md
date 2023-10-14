@@ -18,7 +18,7 @@ Topics:
 15.	TLS (https://kubernetes.io/docs/tasks/tls/)
 16.	Kube Config
 17.	Network Policies
-18.	Volumes
+18.	Volumes (https://kubernetes.io/docs/concepts/storage/volumes/)
 19.	Core DNS
 20.	CNI
 21.	Ingress
