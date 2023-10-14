@@ -6,6 +6,6 @@ Overview:
 
 Few commans related to POD:
 
-kubectl get pod
-kubectl get pod -o wide
-kubectl describe pod
+kubectl get pod <br />
+kubectl get pod -o wide <br />
+kubectl describe pod <br />
