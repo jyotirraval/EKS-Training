@@ -8,7 +8,7 @@ Topics:
 5.	Labels and Selectors (https://kubernetes.io/docs/concepts/overview/working-with-objects/labels/)
 6.	Taint and Tolerations
 7.	Node Affinity
-8.	Node Selectors
+8.	Node Selectors (https://kubernetes.io/docs/tasks/configure-pod-container/assign-pods-nodes/#add-a-label-to-a-node)
 9.	Daemonset
 10.	ConfigMap
 11.	Secrets
