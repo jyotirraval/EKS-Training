@@ -30,4 +30,5 @@ Online labs: https://www.docker.com/play-with-docker/ <br />
 
 Kubernetes: <br />
 Online lab: https://labs.play-with-k8s.com/ <br />
-Other useful lab: https://kubernetes.courselabs.co/ <br />
+Other useful topic wise lab: https://kubernetes.courselabs.co/ <br />
+Documentation: https://kubernetes.io/docs/concepts/architecture/ <br />
