@@ -5,7 +5,7 @@ Topics:
 2.	Deployment
 3.	Services
 4.	Scheduling
-5.	Labels and Selectors
+5.	Labels and Selectors (https://kubernetes.io/docs/concepts/overview/working-with-objects/labels/)
 6.	Taint and Tolerations
 7.	Node Affinity
 8.	Node Selectors
