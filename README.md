@@ -20,8 +20,8 @@ Topics:
 17.	Network Policies (https://kubernetes.io/docs/concepts/services-networking/network-policies/)
 18.	Volumes (https://kubernetes.io/docs/concepts/storage/volumes/)
 19.	Core DNS (https://kubernetes.io/docs/tasks/administer-cluster/coredns/)
-20.	CNI
-21.	Ingress
+20.	CNI (https://kubernetes.io/docs/concepts/extend-kubernetes/compute-storage-net/network-plugins/)
+21.	Ingress (https://kubernetes.io/docs/concepts/services-networking/ingress/)
 
 # Useful Links
 
